@@ -1,0 +1,29 @@
+div{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 600px;
+}
+
+.sub1{
+    color: rgb(42, 152, 226);
+    
+}
+
+h1{
+    font-size: 25px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+.div2, .div3{
+    text-align: justify;
+}
+
+h3{
+    color: rgb(42, 152, 226);
+    border-left: solid rgb(42, 152, 226) 2px;
+    padding-left: 4px;
+}
